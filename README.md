@@ -25,7 +25,7 @@
  
    ![image](https://user-images.githubusercontent.com/32297719/120243355-09b64d00-c270-11eb-9ab1-d47a0557aec0.png)
 
-Otherwise you can use differnet file shares:
+Otherwise you can use different file shares:
 
    ![image](https://user-images.githubusercontent.com/32297719/120243334-fc995e00-c26f-11eb-9001-344b2b291ef5.png)
  
