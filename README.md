@@ -14,7 +14,7 @@
  
 2. Users can be defined with a space between them, example: foo:pass:::upload1 bar:pass:::upload2
 
-   User "foo" with password "pass" can login with sftp and upload files to a folder called "upload1".
+   User "foo" with password "pass" can login with sftp and upload files to a folder called "upload1".   
    User "bar" with password "pass" can login with sftp and upload files to a folder called "upload2".
 
   ```
