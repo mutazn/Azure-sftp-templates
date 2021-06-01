@@ -1,5 +1,17 @@
 # Azure-sftp-templates
 
+**Installation**
+  
+  With DNS Label
+   ```
+az group create --name <resource-group-name> --location <resource-group-location>
+az deployment group create --resource-group <my-resource-group> --template-uri https://raw.githubusercontent.com/mutazn/Azure-sftp-templates/main/sftp-existing-stg-multi-users-with-dnslabel.json
+   ```
+  Without DNS Label
+  ```
+az group create --name <resource-group-name> --location <resource-group-location>
+az deployment group create --resource-group <my-resource-group> --template-uri https://raw.githubusercontent.com/mutazn/Azure-sftp-templates/main/sftp-existing-stg-multi-users.json
+   ```
 ***Tips***
 
 1. **secureVaule** is used to hide the username and password from Azure container group template once deployed.
